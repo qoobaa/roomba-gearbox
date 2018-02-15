@@ -11,4 +11,4 @@ settings:
 
 ## Copyright
 
-Copyright (c) 2018 Jakub Kuźma. See LICENSE[http://github.com/qoobaa/roomba-gears/raw/master/LICENSE] for details.
+Copyright (c) 2018 Jakub Kuźma. See [LICENSE](http://github.com/qoobaa/roomba-gears/raw/master/LICENSE) for details.
